@@ -1,10 +1,11 @@
 # TypeAway
-Simple typing game built with Javascript
+Simple typing game built with Javascript<br>
+<a href="https://frozen-heart15.github.io/TypeAway/"> try it </a>
 
-#App Info
+<b>App Info<b>
   
-Author
+Author<br>
 Gaurav Choudhary
 
-Version
+Version<br>
 1.0.0
