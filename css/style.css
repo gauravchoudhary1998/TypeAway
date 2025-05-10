@@ -6,6 +6,25 @@ header{
     color:#02a8a8;
     background-color: white;
 }
+.lead span{
+    color: red;
+    font-weight: 600;    
+}
+#current-word {
+  font-size: 2.5rem; /* Default size for small screens */
+}
+  
+@media (min-width: 768px) {
+  #current-word {
+      font-size: 4rem; /* Medium screens */
+  }
+ }
+  
+@media (min-width: 1200px) {
+  #current-word {
+      font-size: 6rem; /* Large screens */
+  }
+}
 .card{
     background:transparent;
     border-color:white;
@@ -34,7 +53,15 @@ header{
 .model.active{
     transform: translate(-50%,-50%) scale(1);
 }
-
+#level.easy{
+    color: rgb(0, 126, 0);
+}
+#level.medium{
+    color: orange;
+}
+#level.hard{
+    color: red;
+}
 .model-body{
     background-image:linear-gradient(to bottom right,#3282b8,#02a8a8); 
     padding:20px; 
