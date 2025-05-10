@@ -77,16 +77,16 @@ function setLevel() {
   let newLevel = '';
   let newTime = 5;
 
-  if (score < 5) {
+  if (score < 100) {
     newLevel = 'EASY';
     newTime = 5;
-  } else if (score < 10) {
+  } else if (score < 200) {
     newLevel = 'MEDIUM';
     newTime = 4;
-  } else if (score < 15) {
+  } else if (score < 300) {
     newLevel = 'HARD';
     newTime = 3;
-  } else if (score === 15) {
+  } else if (score === 300) {
     endgame();
     return; 
   }
