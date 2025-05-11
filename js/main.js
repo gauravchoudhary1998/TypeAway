@@ -103,7 +103,7 @@ function setLevel() {
 
 // Match currentWord to wordInput
 function matchWords() {
-  if (wordInput.value === currentWord.innerHTML) {
+  if (wordInput.value.toLowerCase() === currentWord.innerHTML) {
 
     return true;
   } else {
