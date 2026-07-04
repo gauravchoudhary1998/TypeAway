@@ -4,7 +4,7 @@ A simple browser-based typing game built with vanilla JavaScript, HTML, and CSS.
 
 ## Live Demo
 
-🔗 **[Play TypeAway](#)** — replace this with the S3 static website endpoint or custom domain URL (e.g. `(http://gaurav-typeaway.s3-website-us-west-1.amazonaws.com)`).
+🔗 **[http://gaurav-typeaway.s3-website-us-west-1.amazonaws.com](#)**
 
 No installation needed — just open the link in a browser and start typing.
 
