@@ -4,7 +4,7 @@ A simple browser-based typing game built with vanilla JavaScript, HTML, and CSS.
 
 ## Live Demo
 
-<a href="http://gaurav-typeaway.s3-website-us-west-1.amazonaws.com" Click Here </a>
+<a href="http://gaurav-typeaway.s3-website-us-west-1.amazonaws.com"> Click Here </a>
 
 No installation needed — just open the link in a browser and start typing.
 
